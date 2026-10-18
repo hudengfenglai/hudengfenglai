@@ -1,4 +1,4 @@
-# 胡梦浩 · Menghao Hu
+# Menghao Hu
 
 **统计学本科生 | 华南农业大学**  
 **Statistics Undergraduate | South China Agricultural University (SCAU)**
