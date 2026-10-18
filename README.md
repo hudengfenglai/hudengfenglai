@@ -1,20 +1,45 @@
-<p align="center"> <img src="https://capsule-render.vercel.app/api?type=waving&color=0:8EC5FC,50:E0C3FC,100:F9C5D1&height=190&section=header&text=Hi,%20there!&fontSize=54&fontColor=ffffff&animation=fadeIn&fontAlignY=35" alt="Header" width="100%" /> </p> <h1 align="center">Hi, I'm hudengfenglai</h1> <p align="center"> <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=22&duration=2600&pause=900&color=42B883&center=true&vCenter=true&width=720&lines=Learning+AI+%26+automation;Building+useful+developer+workflows;Exploring+MCP%2C+GitHub%2C+Python%2C+and+tools" alt="Typing SVG" /> </p> <p align="center"> <a href="https://github.com/hudengfenglai"> <img src="https://img.shields.io/badge/GitHub-hudengfenglai-181717?style=for-the-badge&logo=github" alt="GitHub" /> </a> <a href="https://github.com/hudengfenglai?tab=repositories"> <img src="https://img.shields.io/badge/Projects-Repositories-2EA44F?style=for-the-badge&logo=githubactions&logoColor=white" alt="Repositories" /> </a> </p>
-About Me
-I am exploring software development, AI tools, GitHub workflows, and personal knowledge systems. I like turning ideas into practical tools and keeping useful work visible, organized, and reusable.
+# 胡梦浩 · Menghao Hu
 
-Focused on AI-assisted workflows, automation, and developer tools.
-Learning Python, Git, GitHub, Markdown, and MCP-based tooling.
-Building a cleaner personal GitHub profile and project portfolio.
-Interested in using AI agents to improve coding, research, and daily productivity.
-Tech Stack
-<p align="center"> <img src="https://skillicons.dev/icons?i=python,git,github,vscode,markdown,linux,html,css,js,powershell" alt="Tech Stack" /> </p>
-GitHub Analytics
-<p align="center"> <img height="170" src="https://github-readme-stats.vercel.app/api?username=hudengfenglai&show_icons=true&theme=vue&hide_border=true&rank_icon=github" alt="GitHub Stats" /> <img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=hudengfenglai&layout=compact&theme=vue&hide_border=true" alt="Top Languages" /> </p>
-Contribution Graph
-<p align="center"> <img src="https://github-readme-activity-graph.vercel.app/graph?username=hudengfenglai&theme=vue&hide_border=true&area=true" alt="Contribution Graph" /> </p>
-Featured Direction
-AI workflow     -> use agents to handle real tasks
-GitHub profile  -> make projects easier to inspect
-Knowledge tools -> keep notes, code, and outputs reusable
-Automation      -> reduce repeated manual work
-<p align="center"> <img src="https://capsule-render.vercel.app/api?type=waving&color=0:F9C5D1,50:E0C3FC,100:8EC5FC&height=120&section=footer" alt="Footer" width="100%" /> </p>
+**统计学本科生 | 华南农业大学**  
+**Statistics Undergraduate | South China Agricultural University (SCAU)**
+
+你好！我是一名统计学本科生，正在学习如何将统计建模、机器学习和数据分析方法应用于真实问题，尤其关注**智能感知、计算机视觉与数据驱动的智能系统**。
+
+Hi! I'm a statistics undergraduate interested in statistical learning, machine learning, and data-driven intelligent systems. I'm developing my research skills through coursework, project practice, and reproducible experiments.
+
+## 🔎 关注方向 · Interests
+
+- **统计学习与机器学习**：分类问题、特征工程、模型评估
+- **计算机视觉与智能感知**：目前正在学习相关基础方法
+- **科研实践**：文献阅读、实验复现、数据整理与分析
+
+## 📚 学习与实践 · Background
+
+- **统计学专业**：学习数学分析、高等代数、概率论及统计学相关课程。
+- **TeleGen 项目实践（清华大学深圳国际研究生院）**：接触仿真遥操作相关工作，参与全景视频数据采集、整理、清洗及 Python 数据预处理，并学习相关实验流程。
+- **2025 年全国大学生数学建模竞赛**：获省级一等奖，主要参与数学建模与程序实现。
+
+## 🧪 项目与学习记录 · Projects & Notes
+
+- **[Open-Teach](https://github.com/hudengfenglai/Open-Teach)**  
+  基于开源 OpenTeach 的**AI 辅助学习与代码实践**，围绕 Isaac Gym 仿真中的键盘控制和数据采集进行探索。该仓库不是本人独立原创的科研实现；原项目来源、代码贡献及使用限制应以仓库文档为准。
+
+- **[Blog](https://github.com/hudengfenglai/blog)**  
+  个人学习笔记、技术记录与知识整理。
+
+## 🛠️ 正在学习 · Currently Learning
+
+`Python` · `NumPy` · `pandas` · `scikit-learn` · `Git/GitHub`
+
+重点提升：**独立理解和调试代码、规范的模型评估、实验复现与技术文档写作**。
+
+## 🤝 科研交流 · Research
+
+希望有机会参与机器学习、数据分析、计算机视觉及智能系统相关的本科生科研实践，从文献阅读、数据处理和实验复现做起，逐步积累研究经验。
+
+> **关于代码来源 / A note on contributions**  
+> 本账号包含学习项目、开源项目实践及 AI 辅助完成的代码。我会尽量在各仓库中区分原始开源代码、AI 辅助内容和个人实际贡献，不将其表述为独立完成的科研成果。
+
+---
+
+*Learning, experimenting, and documenting along the way.*
